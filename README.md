@@ -4,7 +4,7 @@ A modern Todo App built with React and Tailwind CSS.
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Project](https://todo-app-react-v1.vercel.app/)**
+[![Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://todo-app-react-v1.vercel.app/)
 
 ## 🛠️ Tech Stack
 
